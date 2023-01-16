@@ -42,7 +42,8 @@ MonoBehaviour:
   UseStatListTemplate: 0
   StatListTemplate: {fileID: 0}
   levelTemplateID: 0
-  talentTrees: []
+  talentTrees:
+  - talentTreeID: 0
   spellbooks:
   - spellbookID: 0
   startItems:
@@ -58,13 +59,10 @@ MonoBehaviour:
   - itemID: 2
     count: 1
     equipped: 1
-  - itemID: 12
-    count: 1
-    equipped: 1
-  - itemID: 12
+  - itemID: 35
     count: 1
     equipped: 1
   actionAbilities: []
-  allocationStatPoints: 0
+  allocationStatPoints: 1
   allocatedStatsEntries: []
   allocatedStatsEntriesGame: []

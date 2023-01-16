@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 901e672b392df224382e4165aa29e011, type: 3}
+  m_Name: Sword_WEAPON_TRANSFORM
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: Sword
+  entryFileName: Sword_WEAPON_TRANSFORM
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  WeaponTransforms:
+  - raceID: 0
+    transformValues:
+    - gender: {fileID: 11400000, guid: 6af37385c57329640bdb53dd75cf6921, type: 2}
+      CombatPosition: {x: 0.142, y: 0.293, z: 0.087}
+      CombatRotation: {x: 8.218629, y: 334.78323, z: 332.41516}
+      CombatScale: {x: 1, y: 1, z: 1}
+      RestPosition: {x: 0.009120244, y: -0.052759394, z: -0.0026072855}
+      RestRotation: {x: 84.693634, y: 283.13336, z: 221.66972}
+      RestScale: {x: 1, y: 1, z: 1}
+      CombatPosition2: {x: 0, y: 0, z: 0}
+      CombatRotation2: {x: 0, y: 0, z: 0}
+      CombatScale2: {x: 1, y: 1, z: 1}
+      RestPosition2: {x: 0, y: 0, z: 0}
+      RestRotation2: {x: 0, y: 0, z: 0}
+      RestScale2: {x: 1, y: 1, z: 1}

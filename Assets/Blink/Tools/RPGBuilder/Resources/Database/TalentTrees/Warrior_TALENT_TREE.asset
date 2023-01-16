@@ -24,4 +24,13 @@ MonoBehaviour:
   icon: {fileID: 0}
   TiersAmount: 10
   treePointAcceptedID: -1
-  nodeList: []
+  nodeList:
+  - nodeType: 0
+    nodeName: 
+    abilityID: 15
+    recipeID: -1
+    resourceNodeID: -1
+    bonusID: -1
+    Tier: 1
+    Row: 1
+    RequirementsTemplate: {fileID: 0}
