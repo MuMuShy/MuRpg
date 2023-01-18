@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccfcbfff05fa1f94eaa371eb19ed6547, type: 3}
+  m_Name: DragonUsurper_NPC_PRESET
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: DragonUsurper
+  entryFileName: DragonUsurper_NPC_PRESET
+  entryDisplayName: 
+  entryIcon: {fileID: 21300000, guid: e8a68fd17ce42174e9b24babd0ae6629, type: 3}
+  entryDescription: 
+  Prefab: {fileID: 116688, guid: 09ade59177310454ba3c93ae4b7dc125, type: 3}
+  Position: {x: 0, y: 0, z: 0}
+  Scale: {x: 2, y: 2, z: 2}
+  NameplateYOffset: 5
+  NameplateDistance: 50
+  RendererName: 
+  AnimatorController: {fileID: 22100000, guid: 50c27f4633cb5d74e82fecdb1ec822c3, type: 2}
+  AnimatorAvatar: {fileID: 9000000, guid: 79b50b34e44b5fd4db1cdc9535a3c86b, type: 3}
+  AnimatorUseRootMotion: 0
+  AnimatorUpdateMode: 0
+  AnimatorCullingMode: 0
+  NavmeshAgentRadius: 1
+  NavmeshAgentHeight: 4.5
+  NavmeshAgentAngularSpeed: 500
+  NavmeshObstacleAvoidance: 0
+  ColliderType: 2
+  ColliderCenter: {x: 0.3229299, y: 4.484842, z: 1.872869}
+  ColliderSize: {x: 10.38376, y: 9.077534, z: 21.42805}
+  ColliderRadius: 1
+  ColliderHeight: 2
+  InteractionDistanceMax: 10

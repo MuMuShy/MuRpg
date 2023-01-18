@@ -25,7 +25,8 @@ MonoBehaviour:
   IntValue: 0
   FloatValue: 0
   BoolValue: 1
-  ResetAfterDuration: 0
+  IsToggle: 0
+  ResetAfterDuration: 1
   Duration: 1
   ToggleOtherBool: 0
   ToggledParameterName: 
