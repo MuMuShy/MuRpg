@@ -55,7 +55,7 @@ MonoBehaviour:
     castSpeedSlowAmount: 0
     castSpeedSlowTime: 0
     castSpeedSlowRate: 0
-    AIAttackTime: 1
+    AIAttackTime: 0.2
     coneDegree: 0
     ConeHitCount: 1
     ConeHitInterval: 0
@@ -161,7 +161,7 @@ MonoBehaviour:
     Actions: []
     VisualEffectEntries: []
     AnimationEntries:
-    - Template: {fileID: 11400000, guid: 6c3e3c7f474255e4ca19d48ab0b4a68b, type: 2}
+    - Template: {fileID: 11400000, guid: 2e2875f0a3c4040449b6a49b21d5ddd4, type: 2}
       ActivationType: 0
       Delay: 0
       ShowWeapons: 0
