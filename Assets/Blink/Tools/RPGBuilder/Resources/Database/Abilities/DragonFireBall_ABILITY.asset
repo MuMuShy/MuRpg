@@ -49,8 +49,8 @@ MonoBehaviour:
     isToggleCostOnTrigger: 0
     toggledTriggerInterval: 0
     MaxUnitHit: 10
-    minRange: 0
-    maxRange: 0
+    minRange: 10
+    maxRange: 50
     standTimeDuration: 5
     canRotateInStandTime: 0
     castSpeedSlowAmount: 0
@@ -66,8 +66,8 @@ MonoBehaviour:
     linearWidth: 0
     linearHeight: 0
     linearLength: 0
-    projectileSpeed: 50
-    projectileDistance: 0
+    projectileSpeed: 100
+    projectileDistance: 100
     projectileAngleSpread: 50
     projectileCount: 10
     firstProjectileDelay: 0.8
@@ -85,7 +85,7 @@ MonoBehaviour:
       m_Bits: 32
     projectileAffectedByGravity: 0
     projectileShootOnClickPosition: 0
-    projectileDistanceMaxForNPC: 100000
+    projectileDistanceMaxForNPC: 80
     mustLookAtTarget: 1
     squareWidth: 0
     squareLength: 0
@@ -105,7 +105,7 @@ MonoBehaviour:
     UsedOnALly: 0
     LookAtTargetDuringCombatAction: 1
     LookAtTargetOnCombatAction: 0
-    projectileEffect: {fileID: 1134690676384144, guid: a93ffeeb5bb00744fae682a2a9eb59a0, type: 3}
+    projectileEffect: {fileID: 1714274598519724, guid: 46f837efd030e1844bc2d60f88994d6a, type: 3}
     projectileSocketName: 
     projectileTargetSocketName: 
     projectileNodeSocket: {fileID: 0}
@@ -122,7 +122,7 @@ MonoBehaviour:
     colliderSize: {x: 0, y: 0, z: 0}
     colliderRadius: 0.4
     colliderHeight: 0
-    groundVisualEffect: {fileID: 0}
+    groundVisualEffect: {fileID: 7034618709502686422, guid: 7d8f7da339003cf419f158c4f0299f9b, type: 3}
     effectPositionOffset: {x: 0, y: 20, z: -15}
     groundVisualEffectDuration: 5
     hitEffectUseSocket: 0

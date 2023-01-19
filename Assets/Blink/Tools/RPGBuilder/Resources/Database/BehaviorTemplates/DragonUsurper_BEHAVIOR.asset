@@ -37,8 +37,8 @@ MonoBehaviour:
   PotentialAbilities:
   - AbilitiesTemplate: {fileID: 11400000, guid: 698238a3c28c3a94b9ec2d339e26978b, type: 2}
     chance: 100
-  MaxDistanceFromTarget: 4
-  MinDistanceFromTarget: 2.5
+  MaxDistanceFromTarget: 100
+  MinDistanceFromTarget: 25
   LookAtTargetSpeed: 20
   CheckTargetInterval: 0.5
   ResetTargetAfterDistanceFromSpawner: 0
@@ -50,4 +50,4 @@ MonoBehaviour:
   CanAggroAlly: 0
   CanAggroNeutral: 0
   CanAggroEnemy: 1
-  PhaseCheckInterval: 3
+  PhaseCheckInterval: 2

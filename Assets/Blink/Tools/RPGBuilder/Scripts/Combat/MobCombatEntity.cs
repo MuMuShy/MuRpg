@@ -379,6 +379,12 @@ namespace BLINK.RPGBuilder.Combat
             
             if(Knockedback) HandleKnockback();
             if (Casting) HandleCasting();
+            //if(transform.gameObject.name == "DragonUsurper")
+            //{
+            //    Debug.Log("distance:" + transform.gameObject.name);
+            //    Debug.Log(Vector3.Distance(transform.position, GameState.playerEntity.transform.position));
+            //}
+            
         }
 
         protected override void HandleCombatState()

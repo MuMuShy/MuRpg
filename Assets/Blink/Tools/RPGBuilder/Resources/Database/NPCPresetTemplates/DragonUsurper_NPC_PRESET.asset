@@ -38,4 +38,4 @@ MonoBehaviour:
   ColliderSize: {x: 10.20851, y: 3.973204, z: 20.39958}
   ColliderRadius: 1
   ColliderHeight: 2
-  InteractionDistanceMax: 10
+  InteractionDistanceMax: 100
