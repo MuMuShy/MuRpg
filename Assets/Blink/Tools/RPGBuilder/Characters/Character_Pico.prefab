@@ -5106,9 +5106,9 @@ MonoBehaviour:
   WeaponSlots:
   - collapsed: 0
     WeaponType: {fileID: 11400000, guid: def3081bf8d92aa4386bce5872d69fbc, type: 2}
-    RightHandCombat: {fileID: 1961431390670406934}
+    RightHandCombat: {fileID: 5635316877714488558}
     LeftHandCombat: {fileID: 0}
-    RightHandRest: {fileID: 3055420153981826321}
+    RightHandRest: {fileID: 5635316877714488558}
     LeftHandRest: {fileID: 0}
   BodyParts: []
 --- !u!114 &4827853859754689848
