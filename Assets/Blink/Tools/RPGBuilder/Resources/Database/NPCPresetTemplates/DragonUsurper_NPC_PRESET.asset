@@ -21,7 +21,7 @@ MonoBehaviour:
   Prefab: {fileID: 116688, guid: 09ade59177310454ba3c93ae4b7dc125, type: 3}
   Position: {x: 0, y: 0, z: 0}
   Scale: {x: 2, y: 2, z: 2}
-  NameplateYOffset: 5
+  NameplateYOffset: 15
   NameplateDistance: 50
   RendererName: 
   AnimatorController: {fileID: 22100000, guid: 50c27f4633cb5d74e82fecdb1ec822c3, type: 2}

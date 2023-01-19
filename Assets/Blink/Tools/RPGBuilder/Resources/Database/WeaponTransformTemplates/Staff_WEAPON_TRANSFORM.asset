@@ -28,9 +28,9 @@ MonoBehaviour:
       RestPosition: {x: 0, y: 0, z: 0}
       RestRotation: {x: 12.952393, y: 340.42453, z: 94.098335}
       RestScale: {x: 1.2124927, y: 1.2124927, z: 1.2124927}
-      CombatPosition2: {x: -0.006247705, y: 0.041044686, z: -0.073908076}
-      CombatRotation2: {x: 278.94482, y: 313.67084, z: 53.367294}
-      CombatScale2: {x: 1, y: 1, z: 1}
-      RestPosition2: {x: -0.006247705, y: 0.041044686, z: -0.073908076}
-      RestRotation2: {x: 278.94482, y: 313.67084, z: 53.367294}
+      CombatPosition2: {x: 0, y: 0, z: 0}
+      CombatRotation2: {x: 0, y: 0, z: 0}
+      CombatScale2: {x: 1.212493, y: 1.212493, z: 1.212493}
+      RestPosition2: {x: 0, y: 0, z: 0}
+      RestRotation2: {x: 0, y: 0, z: 210}
       RestScale2: {x: 1, y: 1, z: 1}

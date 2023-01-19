@@ -48,15 +48,15 @@ MonoBehaviour:
     isToggle: 0
     isToggleCostOnTrigger: 0
     toggledTriggerInterval: 0
-    MaxUnitHit: 5
+    MaxUnitHit: 10
     minRange: 0
     maxRange: 0
-    standTimeDuration: 2
+    standTimeDuration: 5
     canRotateInStandTime: 0
     castSpeedSlowAmount: 0
     castSpeedSlowTime: 0
     castSpeedSlowRate: 0
-    AIAttackTime: 1
+    AIAttackTime: 5
     coneDegree: 0
     ConeHitCount: 1
     ConeHitInterval: 0
@@ -85,7 +85,7 @@ MonoBehaviour:
       m_Bits: 32
     projectileAffectedByGravity: 0
     projectileShootOnClickPosition: 0
-    projectileDistanceMaxForNPC: 50
+    projectileDistanceMaxForNPC: 100000
     mustLookAtTarget: 1
     squareWidth: 0
     squareLength: 0
@@ -97,7 +97,7 @@ MonoBehaviour:
     groundHitInterval: 0
     CanHitPlayer: 1
     CanHitAlly: 0
-    CanHitNeutral: 1
+    CanHitNeutral: 0
     CanHitEnemy: 1
     CanHitSelf: 0
     CanHitPet: 0
@@ -123,7 +123,7 @@ MonoBehaviour:
     colliderRadius: 0.4
     colliderHeight: 0
     groundVisualEffect: {fileID: 0}
-    effectPositionOffset: {x: 10, y: 10, z: 10}
+    effectPositionOffset: {x: 0, y: 20, z: -15}
     groundVisualEffectDuration: 5
     hitEffectUseSocket: 0
     hitEffect: {fileID: 1814361462553474, guid: b24d86eef3cf9d74ca645a82ee838035, type: 3}
@@ -141,7 +141,7 @@ MonoBehaviour:
       m_Bits: 0
     isAttackSpeedCooldown: 0
     isAttackSpeedGCD: 0
-    cooldown: 30
+    cooldown: 5
     isGCD: 1
     startCDOnActivate: 1
     CanUseDuringGCD: 0
@@ -151,7 +151,7 @@ MonoBehaviour:
     effectsApplied:
     - effectID: 18
       chance: 100
-      effectRank: 0
+      effectRank: 1
       target: 0
       isSpread: 0
       spreadDistanceMax: 0
