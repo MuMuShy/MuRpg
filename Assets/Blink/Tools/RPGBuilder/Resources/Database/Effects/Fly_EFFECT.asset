@@ -22,10 +22,10 @@ MonoBehaviour:
   _fileName: 
   displayName: 
   icon: {fileID: 0}
-  effectType: 19
+  effectType: 10
   effectTag: 
   EffectTag: {fileID: 0}
-  isState: 1
+  isState: 0
   isBuffOnSelf: 0
   stackLimit: 1
   allowMultiple: 0
@@ -37,7 +37,7 @@ MonoBehaviour:
   showUIState: 1
   IsPersistent: 0
   ranks:
-  - ShowedInEditor: 0
+  - ShowedInEditor: 1
     mainDamageType: 0
     secondaryDamageType: 
     customDamageType: {fileID: 0}
@@ -63,11 +63,11 @@ MonoBehaviour:
     damageStatID: -1
     damageStatModifier: 0
     hitValueType: 0
-    teleportType: 0
+    teleportType: 3
     gameSceneID: -1
     teleportPOS: {x: 0, y: 0, z: 0}
     teleportDirectionalType: 0
-    teleportDirectionalDistance: 0
+    teleportDirectionalDistance: 1
     teleportDirectionalBlockLayers:
       serializedVersion: 2
       m_Bits: 0
