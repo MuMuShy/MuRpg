@@ -34,8 +34,8 @@ MonoBehaviour:
   NavmeshAgentAngularSpeed: 500
   NavmeshObstacleAvoidance: 0
   ColliderType: 2
-  ColliderCenter: {x: 0.3229299, y: 4.484842, z: 1.872869}
-  ColliderSize: {x: 10.38376, y: 9.077534, z: 21.42805}
+  ColliderCenter: {x: 0.2353029, y: 1.932677, z: 1.35863}
+  ColliderSize: {x: 10.20851, y: 3.973204, z: 20.39958}
   ColliderRadius: 1
   ColliderHeight: 2
   InteractionDistanceMax: 10
