@@ -10,29 +10,29 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 57399dce936f2be46ac77a4b74f31144, type: 3}
-  m_Name: Fly_EFFECT
+  m_Name: DragonShift_EFFECT
   m_EditorClassIdentifier: 
-  ID: 24
-  entryName: Fly
-  entryFileName: Fly_EFFECT
-  entryDisplayName: Fly
-  entryIcon: {fileID: 21300000, guid: e8a68fd17ce42174e9b24babd0ae6629, type: 3}
+  ID: 25
+  entryName: DragonShift
+  entryFileName: DragonShift_EFFECT
+  entryDisplayName: DragonShift
+  entryIcon: {fileID: 21300000, guid: 845e8ec2a9bb48a44aad132bd80c69c1, type: 3}
   entryDescription: 
   _name: 
   _fileName: 
   displayName: 
   icon: {fileID: 0}
-  effectType: 19
+  effectType: 8
   effectTag: 
   EffectTag: {fileID: 0}
   isState: 1
-  isBuffOnSelf: 0
+  isBuffOnSelf: 1
   stackLimit: 1
   allowMultiple: 0
   allowMixedCaster: 0
   pulses: 1
   duration: 0
-  endless: 1
+  endless: 0
   canBeManuallyRemoved: 1
   showUIState: 1
   IsPersistent: 0
@@ -63,11 +63,11 @@ MonoBehaviour:
     damageStatID: -1
     damageStatModifier: 0
     hitValueType: 0
-    teleportType: 3
+    teleportType: 0
     gameSceneID: -1
     teleportPOS: {x: 0, y: 0, z: 0}
     teleportDirectionalType: 0
-    teleportDirectionalDistance: 1
+    teleportDirectionalDistance: 0
     teleportDirectionalBlockLayers:
       serializedVersion: 2
       m_Bits: 0
@@ -110,18 +110,18 @@ MonoBehaviour:
     dispelEffectTag: 
     DispelEffectTag: {fileID: 0}
     dispelEffectID: -1
-    shapeshiftingModel: {fileID: 0}
+    shapeshiftingModel: {fileID: 41414052144269568, guid: dab5185d7726d483288e87263b478e4b, type: 3}
     shapeshiftingmodelPosition: {x: 0, y: 0, z: 0}
     shapeshiftingmodelScale: {x: 1, y: 1, z: 1}
-    shapeshiftingAnimatorController: {fileID: 0}
-    shapeshiftingAnimatorControllerCombat: {fileID: 0}
-    shapeshiftingAnimatorAvatar: {fileID: 0}
+    shapeshiftingAnimatorController: {fileID: 22100000, guid: 46d53c06a3ae24d758302e0fa8aaa76d, type: 2}
+    shapeshiftingAnimatorControllerCombat: {fileID: 22100000, guid: 46d53c06a3ae24d758302e0fa8aaa76d, type: 2}
+    shapeshiftingAnimatorAvatar: {fileID: 9000000, guid: 79b50b34e44b5fd4db1cdc9535a3c86b, type: 3}
     shapeshiftingAnimatorUseRootMotion: 0
     shapeshiftingAnimatorUpdateMode: 0
     shapeshiftingAnimatorCullingMode: 0
-    shapeshiftingOverrideMainActionBar: 0
-    canCameraAim: 0
-    shapeshiftingActiveAbilities: 
+    shapeshiftingOverrideMainActionBar: 1
+    canCameraAim: 1
+    shapeshiftingActiveAbilities: 14000000
     shapeshiftingNoActionAbilities: 1
     MountPrefab: {fileID: 0}
     MountPosition: {x: 0, y: 0, z: 0}

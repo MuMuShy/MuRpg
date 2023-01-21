@@ -49,4 +49,9 @@ MonoBehaviour:
     abilityID: 20
     bonusID: -1
     unlockLevel: 1
+  - nodeType: 0
+    nodeName: 
+    abilityID: 22
+    bonusID: -1
+    unlockLevel: 1
   sourceType: 0
