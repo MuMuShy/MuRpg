@@ -32,7 +32,7 @@ MonoBehaviour:
   allowMixedCaster: 0
   pulses: 1
   duration: 0
-  endless: 0
+  endless: 1
   canBeManuallyRemoved: 1
   showUIState: 1
   IsPersistent: 0

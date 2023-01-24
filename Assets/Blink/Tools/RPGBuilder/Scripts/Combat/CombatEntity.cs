@@ -502,6 +502,7 @@ namespace BLINK.RPGBuilder.Combat
                 }
                 
                 if (States[i].stateEffect.endless || !(States[i].stateCurDuration >= States[i].stateMaxDuration)) continue;
+                Debug.Log(States[i].stateEffect);
                 EndStateEffect(i);
                 return;
             }
